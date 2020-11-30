@@ -1,0 +1,20 @@
+
+Wertetypen: 
+
+- int / long / 
+- float / decimal / double
+- struct (gilt als Wertetyp)
+
+
+Was haben alle Variablen gemeinsam:
+
+
+Speicheradresse + Wert
+
+Refrerenztypen: 
+- string 
+- class 
+
+Beispiel für Referenztyp_
+
+

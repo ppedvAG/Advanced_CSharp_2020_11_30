@@ -1,0 +1,13 @@
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\CSharp_80\obj\Debug\netcoreapp3.1\CSharp_80.csprojAssemblyReference.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\CSharp_80\obj\Debug\netcoreapp3.1\CSharp_80.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\CSharp_80\obj\Debug\netcoreapp3.1\CSharp_80.AssemblyInfo.cs
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\CSharp_80\obj\Debug\netcoreapp3.1\CSharp_80.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\CSharp_80\bin\Debug\netcoreapp3.1\CSharp_80.exe
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\CSharp_80\bin\Debug\netcoreapp3.1\CSharp_80.deps.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\CSharp_80\bin\Debug\netcoreapp3.1\CSharp_80.runtimeconfig.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\CSharp_80\bin\Debug\netcoreapp3.1\CSharp_80.runtimeconfig.dev.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\CSharp_80\bin\Debug\netcoreapp3.1\CSharp_80.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\CSharp_80\bin\Debug\netcoreapp3.1\CSharp_80.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\CSharp_80\obj\Debug\netcoreapp3.1\CSharp_80.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\CSharp_80\obj\Debug\netcoreapp3.1\CSharp_80.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\CSharp_80\obj\Debug\netcoreapp3.1\CSharp_80.genruntimeconfig.cache

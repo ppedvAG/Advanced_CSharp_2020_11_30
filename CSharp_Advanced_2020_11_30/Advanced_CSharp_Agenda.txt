@@ -1,0 +1,32 @@
+Montag: 
+
+CSharp Features:
+
+7.0 - 7.3:
+
+8.0:
+
+.NET 5 / 9.0
+
+-----------------
+
+SOLID - Prinzip
+
+
+Dienstag: 
+
+Generics
+
+Events / Delegates usw.
+
+
+Mittwoch:
+- Multi Threading
+- TPL 
+
+Optionale Themen:
+- PlugIn Pattern
+- .NET Core (Code First) 
+
+
+
