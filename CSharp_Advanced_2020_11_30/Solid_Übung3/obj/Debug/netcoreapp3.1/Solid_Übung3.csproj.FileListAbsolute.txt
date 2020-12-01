@@ -1,0 +1,13 @@
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\Solid_Übung3\bin\Debug\netcoreapp3.1\Solid_Übung3.exe
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\Solid_Übung3\bin\Debug\netcoreapp3.1\Solid_Übung3.deps.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\Solid_Übung3\bin\Debug\netcoreapp3.1\Solid_Übung3.runtimeconfig.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\Solid_Übung3\bin\Debug\netcoreapp3.1\Solid_Übung3.runtimeconfig.dev.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\Solid_Übung3\bin\Debug\netcoreapp3.1\Solid_Übung3.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\Solid_Übung3\bin\Debug\netcoreapp3.1\Solid_Übung3.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\Solid_Übung3\obj\Debug\netcoreapp3.1\Solid_Übung3.csprojAssemblyReference.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\Solid_Übung3\obj\Debug\netcoreapp3.1\Solid_Übung3.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\Solid_Übung3\obj\Debug\netcoreapp3.1\Solid_Übung3.AssemblyInfo.cs
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\Solid_Übung3\obj\Debug\netcoreapp3.1\Solid_Übung3.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\Solid_Übung3\obj\Debug\netcoreapp3.1\Solid_Übung3.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\Solid_Übung3\obj\Debug\netcoreapp3.1\Solid_Übung3.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\Solid_Übung3\obj\Debug\netcoreapp3.1\Solid_Übung3.genruntimeconfig.cache

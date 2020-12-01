@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\EventSample\bin\Debug\netcoreapp3.1\EventSample.exe
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\EventSample\bin\Debug\netcoreapp3.1\EventSample.deps.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\EventSample\bin\Debug\netcoreapp3.1\EventSample.runtimeconfig.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\EventSample\bin\Debug\netcoreapp3.1\EventSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\EventSample\bin\Debug\netcoreapp3.1\EventSample.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\EventSample\bin\Debug\netcoreapp3.1\EventSample.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\EventSample\obj\Debug\netcoreapp3.1\EventSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\EventSample\obj\Debug\netcoreapp3.1\EventSample.AssemblyInfo.cs
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\EventSample\obj\Debug\netcoreapp3.1\EventSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\EventSample\obj\Debug\netcoreapp3.1\EventSample.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\EventSample\obj\Debug\netcoreapp3.1\EventSample.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\EventSample\obj\Debug\netcoreapp3.1\EventSample.genruntimeconfig.cache
