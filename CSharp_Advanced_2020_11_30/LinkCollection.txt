@@ -1,0 +1,5 @@
+Linq und Lambda 
+https://linqsamples.com/
+
+Downloadbare Beispiele
+https://docs.microsoft.com/en-us/samples/dotnet/try-samples/101-linq-samples/

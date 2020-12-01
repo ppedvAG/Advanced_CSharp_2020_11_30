@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\SerializeSample\bin\Debug\netcoreapp3.1\SerializeSample.exe
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\SerializeSample\bin\Debug\netcoreapp3.1\SerializeSample.deps.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\SerializeSample\bin\Debug\netcoreapp3.1\SerializeSample.runtimeconfig.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\SerializeSample\bin\Debug\netcoreapp3.1\SerializeSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\SerializeSample\bin\Debug\netcoreapp3.1\SerializeSample.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\SerializeSample\bin\Debug\netcoreapp3.1\SerializeSample.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\SerializeSample\obj\Debug\netcoreapp3.1\SerializeSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\SerializeSample\obj\Debug\netcoreapp3.1\SerializeSample.AssemblyInfo.cs
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\SerializeSample\obj\Debug\netcoreapp3.1\SerializeSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\SerializeSample\obj\Debug\netcoreapp3.1\SerializeSample.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\SerializeSample\obj\Debug\netcoreapp3.1\SerializeSample.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\SerializeSample\obj\Debug\netcoreapp3.1\SerializeSample.genruntimeconfig.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\SerializeSample\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\SerializeSample\obj\Debug\netcoreapp3.1\SerializeSample.csprojAssemblyReference.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\SerializeSample\obj\Debug\netcoreapp3.1\SerializeSample.csproj.CopyComplete
