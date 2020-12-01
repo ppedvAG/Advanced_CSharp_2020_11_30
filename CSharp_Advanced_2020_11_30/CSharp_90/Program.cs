@@ -138,9 +138,6 @@ namespace CSharp_90
 
             Person person3 = new("Kevin", "Winter");
 
-
-            Console.WriteLine($"person2 value: {person2}"); //Wo ist der Vorname???????????????????????????????
-            Console.WriteLine($"person2->firstname: {person2.FirstName} lastname:{person2.LastName}");
             Console.ReadLine();
             Console.WriteLine();
 
