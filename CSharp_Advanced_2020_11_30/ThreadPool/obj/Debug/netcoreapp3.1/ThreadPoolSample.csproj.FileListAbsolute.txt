@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPoolSample.exe
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPoolSample.deps.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPoolSample.runtimeconfig.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPoolSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPoolSample.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPoolSample.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPoolSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPoolSample.AssemblyInfo.cs
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPoolSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPoolSample.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPoolSample.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPoolSample.genruntimeconfig.cache

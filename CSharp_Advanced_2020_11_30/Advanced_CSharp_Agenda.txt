@@ -26,6 +26,7 @@ Mittwoch:
 
 Optionale Themen:
 - PlugIn Pattern
+- Generic Repository 
 - .NET Core (Code First) 
 
 

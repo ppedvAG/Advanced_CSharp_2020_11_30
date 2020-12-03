@@ -20,10 +20,10 @@ namespace EventSample
             #region Delegates vor .NET 2.0 
 
             NumbChange nc1 = new NumbChange(AddNum); //Verwende AddNum (muss die selbe Methoden-Signatur vorweisen, wie diese in Delegate angegeben wurde 
-            //nc1(33); //AddNum wird gecalled
+            int returnValue = nc1(33); //AddNum wird gecalled
 
             nc1 += MultNum; // mit += kann man weitere Methoden an dem Delegate dranhängen
-            //nc1(15);
+            nc1(15); //AddNum + MultNum
 
             Console.WriteLine($"{nc1(10)}"); // Ausgabe der letzten angehängten Methode
 
@@ -45,9 +45,12 @@ namespace EventSample
 
 
             #region Delegate with Callbacks
+
+            //Del handler = new Del(DelegateMethod);
             Del handler = DelegateMethod;
             handler("Hallo World");
 
+            
             MethodWithCallback(1,2, handler);
             Console.ReadLine();
             #endregion
@@ -55,12 +58,12 @@ namespace EventSample
 
             #region Action<T> und Func<T>
 
-            //Geht hier nur mit Methoden mit void 
+            //Methoden mit void und ohne Parameter können von a1 verwendet werden.
             Action a1 = new Action(A);
             a1 += B;
             a1(); // Hier wird Methode A und B gecalled
 
-
+            
             Action<int> a2 = C;
             a2(123);
 
@@ -68,9 +71,26 @@ namespace EventSample
             a3(123, 456, 789);
 
             Func<int, int, int> rechner = Add;
-
+            Func<int, int, bool> valueComparer = ValueAreEqual;
             int result = rechner(22, 33);
+
+
+            Func<int, string, Tuple<int, string>> tc = MethodeABC;
+
+           //Func<int, string, Tuple<int, string>> tc1 = Tuple.Create<int, string>;
+
+
+
+            bool equalResult = valueComparer(12, 13);
+            equalResult = valueComparer(13, 13);
             #endregion
+        }
+
+        public static Tuple<int, string> MethodeABC (int value, string word)
+        {
+
+
+            return new Tuple<int, string>(123, "Hallo Welt");
         }
 
 
@@ -128,6 +148,11 @@ namespace EventSample
             int result = a + b + c;
 
             Console.WriteLine($"{result}");
+        }
+
+        public static bool ValueAreEqual(int a, int b)
+        {
+            return (a == b);
         }
 
 

@@ -3,3 +3,11 @@ https://linqsamples.com/
 
 Downloadbare Beispiele
 https://docs.microsoft.com/en-us/samples/dotnet/try-samples/101-linq-samples/
+
+.NET Core SourceCode in WebBrowser
+https://referencesource.microsoft.com/
+
+
+PluginBeispiel
+
+https://github.com/dotnet/samples/tree/master/core/extensions/AppWithPlugin

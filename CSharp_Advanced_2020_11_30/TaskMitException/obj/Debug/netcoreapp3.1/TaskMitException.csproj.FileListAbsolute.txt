@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskMitException\bin\Debug\netcoreapp3.1\TaskMitException.exe
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskMitException\bin\Debug\netcoreapp3.1\TaskMitException.deps.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskMitException\bin\Debug\netcoreapp3.1\TaskMitException.runtimeconfig.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskMitException\bin\Debug\netcoreapp3.1\TaskMitException.runtimeconfig.dev.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskMitException\bin\Debug\netcoreapp3.1\TaskMitException.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskMitException\bin\Debug\netcoreapp3.1\TaskMitException.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskMitException\obj\Debug\netcoreapp3.1\TaskMitException.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskMitException\obj\Debug\netcoreapp3.1\TaskMitException.AssemblyInfo.cs
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskMitException\obj\Debug\netcoreapp3.1\TaskMitException.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskMitException\obj\Debug\netcoreapp3.1\TaskMitException.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskMitException\obj\Debug\netcoreapp3.1\TaskMitException.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskMitException\obj\Debug\netcoreapp3.1\TaskMitException.genruntimeconfig.cache

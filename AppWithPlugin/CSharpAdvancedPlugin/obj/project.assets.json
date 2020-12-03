@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "PluginBase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/PluginBase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PluginBase/1.0.0": {
+      "type": "project",
+      "path": "../PluginBase/PluginBase.csproj",
+      "msbuildProject": "../PluginBase/PluginBase.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "PluginBase >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\KW4\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Aktueller Kurs\\Advanced_CSharp_2020_11_30\\AppWithPlugin\\CSharpAdvancedPlugin\\CSharpAdvancedPlugin.csproj",
+      "projectName": "CSharpAdvancedPlugin",
+      "projectPath": "C:\\Aktueller Kurs\\Advanced_CSharp_2020_11_30\\AppWithPlugin\\CSharpAdvancedPlugin\\CSharpAdvancedPlugin.csproj",
+      "packagesPath": "C:\\Users\\KW4\\.nuget\\packages\\",
+      "outputPath": "C:\\Aktueller Kurs\\Advanced_CSharp_2020_11_30\\AppWithPlugin\\CSharpAdvancedPlugin\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\KW4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
+          "projectReferences": {
+            "C:\\Aktueller Kurs\\Advanced_CSharp_2020_11_30\\AppWithPlugin\\PluginBase\\PluginBase.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\Advanced_CSharp_2020_11_30\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
+              "excludeAssets": "runtime"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "targetAlias": "netcoreapp3.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

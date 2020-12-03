@@ -29,7 +29,7 @@ namespace StringBuilderBenchmarkDemo
             Console.ReadKey();
 
             StringBuilder sb = new StringBuilder();
-
+            
             Stopwatch stopwatch1 = new Stopwatch();
             stopwatch1.Start();
 

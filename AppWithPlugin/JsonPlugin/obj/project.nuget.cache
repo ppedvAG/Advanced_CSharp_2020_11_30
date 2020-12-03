@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eMmkbxpgovijlRurrnG7+/t8GPC8AcayjKSkJTJSj36BaIjd01t2YNE1cJU0H8eamAjBrGWYTAD3UGH7A0ReKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\Advanced_CSharp_2020_11_30\\AppWithPlugin\\JsonPlugin\\JsonPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KW4\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

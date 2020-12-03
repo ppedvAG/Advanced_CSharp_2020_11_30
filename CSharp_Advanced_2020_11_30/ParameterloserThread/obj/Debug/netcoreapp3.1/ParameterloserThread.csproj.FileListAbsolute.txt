@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ParameterloserThread\bin\Debug\netcoreapp3.1\ParameterloserThread.exe
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ParameterloserThread\bin\Debug\netcoreapp3.1\ParameterloserThread.deps.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ParameterloserThread\bin\Debug\netcoreapp3.1\ParameterloserThread.runtimeconfig.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ParameterloserThread\bin\Debug\netcoreapp3.1\ParameterloserThread.runtimeconfig.dev.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ParameterloserThread\bin\Debug\netcoreapp3.1\ParameterloserThread.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ParameterloserThread\bin\Debug\netcoreapp3.1\ParameterloserThread.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ParameterloserThread\obj\Debug\netcoreapp3.1\ParameterloserThread.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ParameterloserThread\obj\Debug\netcoreapp3.1\ParameterloserThread.AssemblyInfo.cs
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ParameterloserThread\obj\Debug\netcoreapp3.1\ParameterloserThread.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ParameterloserThread\obj\Debug\netcoreapp3.1\ParameterloserThread.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ParameterloserThread\obj\Debug\netcoreapp3.1\ParameterloserThread.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ParameterloserThread\obj\Debug\netcoreapp3.1\ParameterloserThread.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\LockSample\bin\Debug\netcoreapp3.1\LockSample.exe
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\LockSample\bin\Debug\netcoreapp3.1\LockSample.deps.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\LockSample\bin\Debug\netcoreapp3.1\LockSample.runtimeconfig.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\LockSample\bin\Debug\netcoreapp3.1\LockSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\LockSample\bin\Debug\netcoreapp3.1\LockSample.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\LockSample\bin\Debug\netcoreapp3.1\LockSample.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\LockSample\obj\Debug\netcoreapp3.1\LockSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\LockSample\obj\Debug\netcoreapp3.1\LockSample.AssemblyInfo.cs
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\LockSample\obj\Debug\netcoreapp3.1\LockSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\LockSample\obj\Debug\netcoreapp3.1\LockSample.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\LockSample\obj\Debug\netcoreapp3.1\LockSample.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\LockSample\obj\Debug\netcoreapp3.1\LockSample.genruntimeconfig.cache

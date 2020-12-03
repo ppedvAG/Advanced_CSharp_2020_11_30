@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadMitParameter\bin\Debug\netcoreapp3.1\ThreadMitParameter.exe
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadMitParameter\bin\Debug\netcoreapp3.1\ThreadMitParameter.deps.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadMitParameter\bin\Debug\netcoreapp3.1\ThreadMitParameter.runtimeconfig.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadMitParameter\bin\Debug\netcoreapp3.1\ThreadMitParameter.runtimeconfig.dev.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadMitParameter\bin\Debug\netcoreapp3.1\ThreadMitParameter.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadMitParameter\bin\Debug\netcoreapp3.1\ThreadMitParameter.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadMitParameter\obj\Debug\netcoreapp3.1\ThreadMitParameter.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadMitParameter\obj\Debug\netcoreapp3.1\ThreadMitParameter.AssemblyInfo.cs
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadMitParameter\obj\Debug\netcoreapp3.1\ThreadMitParameter.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadMitParameter\obj\Debug\netcoreapp3.1\ThreadMitParameter.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadMitParameter\obj\Debug\netcoreapp3.1\ThreadMitParameter.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\ThreadMitParameter\obj\Debug\netcoreapp3.1\ThreadMitParameter.genruntimeconfig.cache

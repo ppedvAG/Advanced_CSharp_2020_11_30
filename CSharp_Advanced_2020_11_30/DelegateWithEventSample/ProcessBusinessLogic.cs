@@ -1,27 +1,47 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace DelegateWithEventSample
 {
 
     public delegate void Notify();
+    public delegate void MyProcess(int percent);
 
     public class ProcessBusinessLogic
     {
         public event Notify ProcessCompleted;
+        public event MyProcess Processing;
 
-        public void StartProcess()
+        public async void StartProcess()
         {
             Console.WriteLine("Process Started!");
             //Mach was
 
+            OnProcessing(43);
+            //await Task.Delay(500);
+            OnProcessing(52);
+            //await Task.Delay(500);
+            OnProcessing(64);
+            //await Task.Delay(500);
+            OnProcessing(65);
+            await Task.Delay(500);
+            OnProcessing(99);
+
+
+            //bin fertig
             OnProcessCompleted();
         }
 
         public virtual void OnProcessCompleted()
         {
             ProcessCompleted?.Invoke();
+        }
+
+        public virtual void OnProcessing(int percentCount)
+        {
+            Processing?.Invoke(percentCount);
         }
     }
 

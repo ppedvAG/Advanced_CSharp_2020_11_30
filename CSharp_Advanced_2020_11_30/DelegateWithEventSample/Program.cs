@@ -8,6 +8,7 @@ namespace DelegateWithEventSample
         {
             Console.WriteLine("Hello World!");
             ProcessBusinessLogic bl = new ProcessBusinessLogic();
+            bl.Processing += Bl_Processing;
             bl.ProcessCompleted += Bl_ProcessCompleted;
             bl.StartProcess();
 
@@ -21,6 +22,11 @@ namespace DelegateWithEventSample
 
 
             Console.ReadLine();
+        }
+
+        private static void Bl_Processing(int percent)
+        {
+            Console.WriteLine("Fortschritt : " + percent.ToString());
         }
 
         private static void Bl2_ProcessCompletedNew(object sender, EventArgs e)

@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\HelloReflections\bin\Debug\netcoreapp3.1\HelloReflections.exe
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\HelloReflections\bin\Debug\netcoreapp3.1\HelloReflections.deps.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\HelloReflections\bin\Debug\netcoreapp3.1\HelloReflections.runtimeconfig.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\HelloReflections\bin\Debug\netcoreapp3.1\HelloReflections.runtimeconfig.dev.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\HelloReflections\bin\Debug\netcoreapp3.1\HelloReflections.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\HelloReflections\bin\Debug\netcoreapp3.1\HelloReflections.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\HelloReflections\obj\Debug\netcoreapp3.1\HelloReflections.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\HelloReflections\obj\Debug\netcoreapp3.1\HelloReflections.AssemblyInfo.cs
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\HelloReflections\obj\Debug\netcoreapp3.1\HelloReflections.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\HelloReflections\obj\Debug\netcoreapp3.1\HelloReflections.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\HelloReflections\obj\Debug\netcoreapp3.1\HelloReflections.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\HelloReflections\obj\Debug\netcoreapp3.1\HelloReflections.genruntimeconfig.cache

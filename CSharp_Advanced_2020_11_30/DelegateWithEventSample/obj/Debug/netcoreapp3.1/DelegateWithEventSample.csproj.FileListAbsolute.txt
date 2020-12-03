@@ -10,3 +10,4 @@ C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\Delegate
 C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\DelegateWithEventSample\obj\Debug\netcoreapp3.1\DelegateWithEventSample.dll
 C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\DelegateWithEventSample\obj\Debug\netcoreapp3.1\DelegateWithEventSample.pdb
 C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\DelegateWithEventSample\obj\Debug\netcoreapp3.1\DelegateWithEventSample.genruntimeconfig.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\DelegateWithEventSample\obj\Debug\netcoreapp3.1\DelegateWithEventSample.csprojAssemblyReference.cache

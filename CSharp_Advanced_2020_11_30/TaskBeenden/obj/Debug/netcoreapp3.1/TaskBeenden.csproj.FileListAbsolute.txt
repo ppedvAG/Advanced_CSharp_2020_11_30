@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskBeenden\bin\Debug\netcoreapp3.1\TaskBeenden.exe
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskBeenden\bin\Debug\netcoreapp3.1\TaskBeenden.deps.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskBeenden\bin\Debug\netcoreapp3.1\TaskBeenden.runtimeconfig.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskBeenden\bin\Debug\netcoreapp3.1\TaskBeenden.runtimeconfig.dev.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskBeenden\bin\Debug\netcoreapp3.1\TaskBeenden.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskBeenden\bin\Debug\netcoreapp3.1\TaskBeenden.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskBeenden\obj\Debug\netcoreapp3.1\TaskBeenden.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskBeenden\obj\Debug\netcoreapp3.1\TaskBeenden.AssemblyInfo.cs
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskBeenden\obj\Debug\netcoreapp3.1\TaskBeenden.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskBeenden\obj\Debug\netcoreapp3.1\TaskBeenden.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskBeenden\obj\Debug\netcoreapp3.1\TaskBeenden.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\CSharp_Advanced_2020_11_30\TaskBeenden\obj\Debug\netcoreapp3.1\TaskBeenden.genruntimeconfig.cache
